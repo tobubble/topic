@@ -1,0 +1,16 @@
+{
+  "id": "2440137",
+  "name": "topic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15167650",
+      "name": "message",
+      "font_class": "message_1",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    }
+  ]
+}
